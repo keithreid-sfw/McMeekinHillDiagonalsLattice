@@ -1,6 +1,6 @@
 # McMeekinHillDiagonalsLattice
 a preprint of a proof for enumerating diagonal paths in a lattice.
-this prepreint is relased under creative commons license Attribution 4.0 International (CC BY 4.0).
+this preprint is released under creative commons license Attribution 4.0 International (CC BY 4.0).
 https://creativecommons.org/licenses/by/4.0/
 
 Here are the terms:
